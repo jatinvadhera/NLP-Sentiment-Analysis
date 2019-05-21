@@ -1,0 +1,1 @@
+This project focuses on creating models (both supervised and unsupervised) for Sentiment Analysis of IMDB movie reviews.
